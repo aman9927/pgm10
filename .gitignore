@@ -28,8 +28,6 @@ int outputarray(int n,int a[n])
                 printf("\n");
         }
         printf("\n");
-
-
         int s=sumarray(n,a);
         printf("Sum is : %d\n",s);
         return 0;
